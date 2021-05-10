@@ -1,4 +1,4 @@
-# community
+## _Community_
 
 Discussions related to course content will be held in this repository's [Issues](https://github.com/STA518-01-SS21/community/issues).
 Students are welcome and encouraged to post here.
