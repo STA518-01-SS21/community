@@ -1,4 +1,4 @@
-## community
+# community
 
 Discussions related to course content will be held in this repository's [Issues](https://github.com/STA518-01-SS21/community/issues).
 Students are welcome and encouraged to post here.
@@ -11,7 +11,7 @@ Examples of uses for this area are:
 - Installing software
 - Other types of computational problems
 
-# **Some general advice for opening an Issue on GitHub:**
+## **Some general advice for opening an Issue on GitHub:**
 
 - First search existing issues for answers (both open and closed).
   If the question already has been answered, you're done!
