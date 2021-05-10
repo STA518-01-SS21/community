@@ -4,7 +4,7 @@ Discussions related to course content will be held in this repository's [Issues]
 Students are welcome and encouraged to post here.
 To start a discussion thread, create a new Issue.
 
-Examples of uses for this area are:
+## Examples of uses for this area are:
 
 - Help with coding
 - Clarification on items
@@ -13,22 +13,22 @@ Examples of uses for this area are:
 
 Some general advice for opening an Issue on GitHub:
 
-- First search existing issues for answers (both open and closed).
+1. First search existing issues for answers (both open and closed).
   If the question already has been answered, you're done!
   Feel free to open a closed Issue if you believe the answer is not satisfactory.
-- Give your Issue an informative title:
+2.  Give your Issue an informative title:
   - Good: 'Error: could not find find function "ggplot"'
   - Bad: "I need help!", "Things not working", "aaaaaarrrrrgh!"
     Note that you can edit an Issue's title after it has been posted.
-- Format your questions using markdown and code formatting.
+3.  Format your questions using markdown and code formatting.
   Preview your issue prior to posting.
-- Where appropriate, provide links to specific files (or lines within them) or an image/screenshot in the body of your Issue.
+4.  Where appropriate, provide links to specific files (or lines within them) or an image/screenshot in the body of your Issue.
   This will help your helper understand your question.
   Note that only your instructor has access to private repos.
-- (Optional) Tag someone or a group of people.
+5.  (Optional) Tag someone or a group of people.
   Start by typing the `@` symbol and GitHub will generate some good suggestions.
   To tag your instructor, use `@dykesb`; to tag a class/team mate use their GitHub username.
-- Click on **Submit new issue** when you are ready to post.
+6.  Click on **Submit new issue** when you are ready to post.
 
 Don't just create Issues, also respond to them!
 Your experience might have some valuable insight to add to the conversation; it doesn't have to be in terms of "correctness".
